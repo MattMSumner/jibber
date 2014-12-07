@@ -22,6 +22,7 @@ gem "simple_form"
 gem "title"
 gem "uglifier"
 gem "unicorn"
+gem "octokit"
 
 group :development do
   gem "spring"
